@@ -33,3 +33,4 @@ https://segmentfault.com/a/1190000021214937?utm_source=tag-newest
         
 f1：array([0.00556587,0.02884273,0.05665048,0,0,0,0.98303516])
 
+![image](https://github.com/CloudySalvatore/NLP/blob/master/3301f7819eba5fe7a929d33527a5699.png)
